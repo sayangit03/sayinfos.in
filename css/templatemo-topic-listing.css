@@ -1071,6 +1071,11 @@ blockquote {
     padding-bottom: 50px;
   }
   
+  .section-padding-other {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
   .navbar {
     background-color: var(--secondary-color);
   }
